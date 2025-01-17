@@ -1,0 +1,48 @@
+/* Style das letras e fundo em geral */
+body { 
+    color:rgb(17, 17, 17);
+    background-color:rgb(134, 170, 120);
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 70px;
+}
+/* Style da minha foto e borda  */
+img {        
+    width: 700px;
+    height: 400px;
+    border-radius: 15%;
+    border: 3px solid rgb(87, 57, 17);   
+}
+/* Style da foto */
+h1 {
+    text-align: center;
+    color: rgb(87, 57, 17) 
+}
+/* Style do título */
+h2 {
+    text-align: center;
+    color: rgb(87, 57, 17) 
+}
+/* Style do início do texto */
+section {  
+    text-align: justify;
+    align-items: center;
+    width: 1000px;     
+    margin: 400px; 
+    margin-top: 70px;
+}
+h3 {
+   text-align: justify; 
+   width: 1500px;     
+}
+/* Style das imagens de quantidade média */
+h4 {    
+    width: 500px;    
+    img {                           
+        width: 1000px;        
+        height: 600px;
+        border-radius: 15%;
+        border: 3px solid rgb(62, 95, 89);  
+        margin: 10px;      
+    }
+    
+}
